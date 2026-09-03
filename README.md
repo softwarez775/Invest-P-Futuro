@@ -1,5 +1,33 @@
 # Invest P/ Futuro
 
+## 📸 Screenshots
+
+
+### Conversa com o Agente Financeiro
+
+![Conversa com o Agente Financeiro](./docs/screenshots/Conversa.jpg)
+
+### Metas Financeiras
+
+![Metas Financeiras](./docs/screenshots/Metas.jpg)
+
+### Relatórios
+
+![Relatórios Financeiros](./docs/screenshots/Relatorios.jpg)
+
+### Dicas
+
+![Dicas Financeiras](./docs/screenshots/Dicas.jpg)
+
+### Calculadora de Juros Compostos
+
+![Calculadora de Juros Compostos](./docs/screenshots/Juros.jpg)
+
+### Simulador do Primeiro Milhão
+
+![Simulador do Primeiro Milhão](./docs/screenshots/Milhao.jpg)
+
+
 # PRD – App de Organização de Finanças com Conversa Natural
 
 Aplicativo de organização de finanças pessoais desenvolvido para permitir que o usuário controle sua vida financeira por meio de **conversas naturais**, combinando Inteligência Artificial, ferramentas de projeção financeira, dados de mercado e visualizações simples.
